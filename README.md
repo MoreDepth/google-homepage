@@ -8,9 +8,9 @@ I just finished building the google homepage replica as my first front-end assig
 ### Experience
 It took me 3 days to build it out to a satisfactory level. I had to google my way around the definitions of some tags and how to use them - I'm still learning, though. But I have learned a lot!
 
-The **index.html** was pretty easy to write except for a few challenges with the icons, which I removed eventually. However, much of my time was spent on writing out the CSS tags to make the page come alive.
+The **index.html** was pretty easy to write except for a few challenges with the icons, which I removed eventually. However, much of my time was spent on writing out the CSS properties to make the webpage come alive.
 
-### What I learned...
+### What I learned
 
 1. Mastering CSS properties require practice, experimenting and testing your website. For instance, I got to find out the appropriate pixel values for `margin`, `padding`, `borders`, `line-height` and `letter spacing` by trial and error. I need to study further on this area to understand the concepts.
 
