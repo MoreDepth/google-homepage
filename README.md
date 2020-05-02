@@ -6,7 +6,7 @@ I just finished building the google homepage replica as my first front-end assig
 * CSS
 
 ### Experience
-It took me 3 days to build it out to a satisfactory level. I had to google my way around the definitions of some tags and how to use them - I'm still learning, though. But I have learned a lot!
+It took me 3 days to build it out to a satisfactory level. I had to google my way around the definitions of some tags and how to use them - I'm still learning, though. But I learned a lot!
 
 The **index.html** was pretty easy to write except for a few challenges with the icons, which I removed eventually. However, much of my time was spent on writing out the CSS properties to make the webpage come alive.
 
